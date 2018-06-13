@@ -64,7 +64,7 @@ I have executed test scenario and it has passed it printed below results to the 
 
 
 
-Item Desc: Vintage OG 80s Nike Bruin <=> Item Cost: 723.53
+Item Desc: Vintage OG 80s Nike Bruin <=> Item Cost: 723.53<br/>
 Item Desc: Original 1985 Nike Air Jo <=> Item Cost: 655.75
 Item Desc: Custom Nike Air Max Shoes <=> Item Cost: 617.90
 Item Desc: Custom Nike Air Max Shoes <=> Item Cost: 617.90
