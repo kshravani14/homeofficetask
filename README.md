@@ -65,14 +65,14 @@ I have executed test scenario and it has passed it printed below results to the 
 
 
 Item Desc: Vintage OG 80s Nike Bruin <=> Item Cost: 723.53<br/>
-Item Desc: Original 1985 Nike Air Jo <=> Item Cost: 655.75
-Item Desc: Custom Nike Air Max Shoes <=> Item Cost: 617.90
-Item Desc: Custom Nike Air Max Shoes <=> Item Cost: 617.90
-Item Desc: Nike Air Jordan Shirt Vin <=> Item Cost: 570.02
-Item Desc: Custom Primary Check OLD  <=> Item Cost: 540.66
-Item Desc: Custom Vans SK8-HI ,Swaro <=> Item Cost: 540.66
-Item Desc: Custom Primary Check OLD  <=> Item Cost: 540.66
-Item Desc: Custom Primary Check OLD  <=> Item Cost: 540.66
+Item Desc: Original 1985 Nike Air Jo <=> Item Cost: 655.75<br/>
+Item Desc: Custom Nike Air Max Shoes <=> Item Cost: 617.90<br/>
+Item Desc: Custom Nike Air Max Shoes <=> Item Cost: 617.90<br/>
+Item Desc: Nike Air Jordan Shirt Vin <=> Item Cost: 570.02<br/>
+Item Desc: Custom Primary Check OLD  <=> Item Cost: 540.66<br/>
+Item Desc: Custom Vans SK8-HI ,Swaro <=> Item Cost: 540.66<br/>
+Item Desc: Custom Primary Check OLD  <=> Item Cost: 540.66<br/>
+Item Desc: Custom Primary Check OLD  <=> Item Cost: 540.66<br/>
 Item Desc: Custom OLD SKOOL SHOES Va <=> Item Cost: 540.66
 
 
